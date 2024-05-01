@@ -5,4 +5,3 @@
 This connect 4 game project was built using Python language. This involves a gui based connect4 game that is played against an AI player. I used Minimax algorithm for the Ai to play the game optimally. You can decrease the depth variable to decrease the difficulty and vice versa
 
 
-[Uploading 2024-04-01 20-49-19.mkv…]()
